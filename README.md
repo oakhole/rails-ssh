@@ -1,2 +1,3 @@
-# rails-ssh
-Docker file demo
+#docker-ruby
+
+基于dockerfile配置开发环境
